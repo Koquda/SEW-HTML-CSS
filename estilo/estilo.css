@@ -2,3 +2,30 @@
     Alejandro Campa Martínez - UO282874
 Descripción de los estilos
 ******************************************/
+
+/* Especificidad 001 */
+header, footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Especificidad 001 */
+nav{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+p {
+    align-self: center;
+}
+
+/* Queda por hacer la de a cuando estan fuera del nav 
+ * Añadir un elemento de audio al html
+ * css para el video
+ * arreglar el footer
+ *
+ * */
+

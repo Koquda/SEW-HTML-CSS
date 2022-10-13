@@ -20,7 +20,7 @@ Descripción de los estilos
 
 */      
 
-/* Especificidad: 001 */
+/* Estilos para el header */
 header, footer {
     background-color: #f8f8f2;
     color: #000;
@@ -74,16 +74,3 @@ img {
     width: 50%;
     height: 50%;
 }
-
-
-/* Especificidad: 001 */
-ul {
-    background-color: #234567;
-}
-
-/* Especificidad: 001 */
-li {
-    background-color: #973859;
-}
-
-
