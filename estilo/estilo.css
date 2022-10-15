@@ -13,19 +13,24 @@ header, footer {
 
 /* Especificidad 001 */
 nav{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+   width: 50%; 
 }
+
 
 p {
     align-self: center;
+}
+
+video {
+    width: 100%;
+    height: 100%;
 }
 
 /* Queda por hacer la de a cuando estan fuera del nav 
  * Añadir un elemento de audio al html
  * css para el video
  * arreglar el footer
+ * arreglar lo de headers y tal de la tabla en html
  *
  * */
 
