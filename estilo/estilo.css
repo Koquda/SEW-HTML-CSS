@@ -73,6 +73,11 @@ a {
     text-decoration-line: none;
 }
 
+section a {
+    color: #f8f8f2;
+    background-color: #000;
+}
+
 /*Especificidad: 012*/
 section a:hover {
     color: #000;
