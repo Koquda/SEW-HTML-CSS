@@ -63,7 +63,8 @@ h1 {
 }
 
 nav a, footer a{
-    color: #000;
+    color: #000000;
+    background-color: #ffffff;
     padding: 1vw;
 
 }
@@ -73,8 +74,8 @@ a {
 }
 
 section a {
-    color: #fff;
-    background-color: #000;
+    color: #ffffff;
+    background-color: #000000;
 }
 
 /*Especificidad: 012*/
