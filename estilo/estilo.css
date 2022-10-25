@@ -11,6 +11,12 @@ nav{
     width: 50%; 
 }
 
+main {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
 /*Especificidad: 012*/
 nav a:hover, footer a:hover {
