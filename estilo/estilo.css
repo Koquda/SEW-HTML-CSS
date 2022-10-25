@@ -30,6 +30,7 @@ h1 {
 
 /* Especificidad: 002 */
 nav a, footer a{
+    color: #000000;
     padding: 1vw;
 
 }
