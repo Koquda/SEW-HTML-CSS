@@ -36,7 +36,7 @@ nav a, footer a{
 }
 
 /* Especificidad: 001 */
-a {
+section a {
     color: #ffffff;
     text-decoration-line: none;
 }
