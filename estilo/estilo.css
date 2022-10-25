@@ -15,7 +15,7 @@ video, audio, img {
 }
 
 /* Especificidad: 002 */
-header, footer {
+header, footer, header a {
     background-color: #f8f8f2;
     color: #000000;
     padding: 2em;
