@@ -13,20 +13,10 @@ nav{
 
 
 /*Especificidad: 012*/
-/*
 nav a:hover, footer a:hover {
-    background-color: #653465;
+    background-color: #000000;
     color: #f8f8f2;
 }
-*/
-
-/*Especificidad: 012*/
-/*
-nav a:active, footer a:active {
-    background-color: #9a63e7;
-    color:#f8f8f2;
-}
-*/
  
 /* Especificidad 000 */
 header {
@@ -74,14 +64,6 @@ a {
     color: #000000;
     text-decoration-line: none;
 }
-
-/*Especificidad: 012*/
-/*
-section a:hover {
-    color: #ffffff;
-    background-color: #000000;
-}
-*/
 
 nav {
     width: 100%;
